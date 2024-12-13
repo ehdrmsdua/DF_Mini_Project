@@ -8,7 +8,7 @@
 ### Members : <br/>
 Siho YUN - Korea Univ_Mathematics <br/>
 Minju GIM - Sungshin W's Univ_AI Convergence <br/>
-Minju GANG - Dongguk Univ_Idustrial Systems Engineering <br/>
+Eunjeong AN - Hansung Univ_AI Applications <br/>
 
 ### Summary Preview:<br/>
 5 Pages / 28 Pages<br/>
