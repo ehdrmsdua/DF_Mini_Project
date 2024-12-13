@@ -1,4 +1,4 @@
-# This includes descriptions of three mini-projects.<br/>
+# This includes descriptions of 3 mini-projects.<br/>
 
 ## 3.
 ## Topic: Object Detection Based on Synthetic Data(DACON) <br/>
